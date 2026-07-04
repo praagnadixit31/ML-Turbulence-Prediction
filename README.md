@@ -18,7 +18,7 @@ This project implements and extends the methodology from Suzuki's research, anal
 ### Installation
 
 ```bash
-git clone https://github.com/RithvikRK12/ML-Turbulence-Predict.git
+git clone https://github.com/praagnadixit31/ML-Turbulence-Predict.git
 cd Turbulence
 python -m venv .venv
 .venv\Scripts\activate
